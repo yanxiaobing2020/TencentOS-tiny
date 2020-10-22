@@ -5,7 +5,7 @@
 #include "n32g020xx_timer.h"
 #include "n32g020xx_uart.h"
 #include "n32g020xx_it.h"
-
+// TEST
 typedef struct __UART_HandleTypeDef
 {
     UartChannel channel;
